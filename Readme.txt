@@ -1,1 +1,1 @@
-akaddu.github.io
+https://akaddu.github.io
